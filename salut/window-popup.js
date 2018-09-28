@@ -1,3 +1,5 @@
+'use-strict';
+
 (function () {
   var input = document.querySelector('#name');
   var salut = document.querySelector('#salut');
@@ -7,11 +9,4 @@
   });
 
 
-
 }());
-
-// $(function () {
-//   $('#name').keyup(function () {
-//     $('#salut').text('Salut ' + $('#name').val());
-//   });
-// });
