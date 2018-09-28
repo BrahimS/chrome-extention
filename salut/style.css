@@ -1,0 +1,11 @@
+body {
+  background: pink;
+  border: none;
+  padding: 20px;
+  margin: 0;
+  width: 300px;
+}
+
+h1 {
+  color: purple;
+}
