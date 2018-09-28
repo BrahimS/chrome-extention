@@ -1,0 +1,15 @@
+{
+  "manifest_verion": 2,
+  "name": "Salut le monde",
+  "version": 1.0,
+  "description": "a small extention that say Salut le monde",
+  "icons": {
+    "128": "icons128.png",
+    "48": "icons48.png",
+    "16": "icons16.png"
+  },
+  "browser_action": {
+    "default_icon": "icon16.png",
+    "default_popup": "window-popup.html"
+  }
+}
